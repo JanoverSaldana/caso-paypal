@@ -1,0 +1,61 @@
+{
+  "countries": [
+    {
+      "id" : 1,
+      "name" : "Peru",
+      "description" : "South America"
+    },
+    {
+      "id": 4,
+      "name" : "Argentina",
+      "description" : "South America"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name" : "Save",
+      "description" : "Save",
+	  "income" : "10000",
+      "expenses" : "500",
+	  "countryId" : "4",
+      "registeredInAt" : ""	  
+    },
+    {
+      "id": 2,
+      "name" : "Gas",
+      "description" : "buying and selling in gas station",
+	  "income" : "50000",
+      "expenses" : "5500",
+	  "countryId" : "4",
+      "registeredInAt" : "19/05/2025"	  
+    },
+    {
+      "id": 3,
+      "name" : "Cafes",
+      "description" : "buying and selling in cafes",
+	  "income" : "50000",
+      "expenses" : "6500",
+	  "countryId" : "4",
+      "registeredInAt" : ""	  
+    },
+    {
+      "id": 4,
+      "name" : "Supermarket",
+      "description" : "buying and selling in supermarkets",
+	  "income" : "50000",
+      "expenses" : "2000",
+	  "countryId" : "1",
+      "registeredInAt" : ""  
+    },
+    {
+      "id": 5,      
+      "name" : "Video games",
+      "description" : "buying and selling video games",
+	  "income" : "30000",
+      "expenses" : "5000",
+	  "countryId" : "1",
+      "registeredInAt" : "16/05/2025"	  
+    }
+  ]
+}

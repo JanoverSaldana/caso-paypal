@@ -1,0 +1,16 @@
+{
+  "home": {
+    "title": "Inicio",
+    "sub-title": "Bienvenido a Paypal"
+  },
+
+  "toolbar": {
+    "option-1": "Inicio",
+    "option-2": "Categoria"
+  },
+
+  "category-validation": {
+    "title": "Categoría de transacción"
+  }
+
+}
