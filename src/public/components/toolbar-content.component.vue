@@ -17,8 +17,7 @@ export default {
 <template>
 
 
-  <pv-toolbar class="toolbar-elixir-line m-0  w-full border-none "
-              style="background-color: var(--vino-tinto-color);">
+  <pv-toolbar class="toolbar-elixir-line m-0  w-full border-none ">
 
     <template #start>
 
