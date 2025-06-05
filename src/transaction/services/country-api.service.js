@@ -12,4 +12,13 @@ export class TransactionService {
     getAllResources() {
       return http.get(this.baseResource)
     }
+
+    getResourceById(id){
+        return http.get(`${this.baseResource}/${id}`);
+    }
+
+    updatedResource(id, resource) {
+        return http.put(`${this.baseResource}/${id}`, resource);
+    }
+
 }
